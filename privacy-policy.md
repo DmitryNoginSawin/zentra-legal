@@ -108,4 +108,4 @@ Cuando se realicen cambios relevantes, se actualizará la fecha de esta polític
 
 Para cualquier consulta relacionada con esta Política de privacidad o con el tratamiento de datos en Zentra, puedes contactar con:
 
-**Email:** [añadir email de contacto]
+**Email:** sawintvspain@gmail.com  
