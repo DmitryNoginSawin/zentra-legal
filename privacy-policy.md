@@ -1,5 +1,5 @@
 # Política de privacidad de Zentra
-
+https://github.com/DmitryNoginSawin/zentra-legal/blob/main/README.md
 **Última actualización:** 14 de junio de 2026
 
 Esta Política de privacidad describe cómo la aplicación **Zentra** gestiona la información introducida por el usuario.
